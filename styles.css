@@ -1,10 +1,26 @@
-#Header
 
-.nav_bar{
+/*header*/
+
+.nav_bar ul li{
     font-weight: bold; 
     text-align: right; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: palevioletred; 
-
-
+    color: #d63dcf; 
 }
+
+/*body*/
+img {
+  padding: 5px;
+  width: 150px;
+  height: 150px;
+    
+.button {
+  background-color: #d63cf;
+  border: none;
+  text-color: white;
+  padding: 15px 15px; 
+  text-align: center;
+  font-size: 16px;
+}
+
+    
