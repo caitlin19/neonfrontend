@@ -6,21 +6,33 @@
     text-align: right; 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: #d63dcf; 
+.nav_bar img{
+    padding: 5px; 
+    width: 50px;
+    height: 30px; 
+    justify-content: left; 
 }
 
 /*body*/
-img {
+.hero_section img {
   padding: 5px;
   width: 150px;
   height: 150px;
     
-.button {
+.hero_section button {
   background-color: #d63cf;
   border: none;
   text-color: white;
   padding: 15px 15px; 
   text-align: center;
   font-size: 16px;
+    
+.hero_section h1{
+  color: #d63dcf;
+  font-size: 24px; 
+  text-align: left; 
+     
+ 
 }
 
     
